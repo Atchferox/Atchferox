@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atchferox
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ICT on HBO Utrecht
+- 🌱 I’m currently attending HBO Utrecht ICT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
