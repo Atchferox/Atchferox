@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @Atchferox
 - 👀 I’m interested in app development
 - 🌱 I’m currently attending HBO Utrecht ICT
-- :snake: I'm currently learning Python 
+- 📱: I'm currently learning react native
 - Fun fact, I like playing drums and making music
 
 
