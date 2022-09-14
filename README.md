@@ -1,9 +1,3 @@
-### Hoi ik ben Luuk 
-
-## Ik studeer momenteel HBO ICT in Utrecht
-
-# Ik zit in mijn propedeuse jaar
-
 - 👋 Hi, I’m @Atchferox
 - 👀 I’m interested in app development
 - 🌱 I’m currently attending HBO Utrecht ICT
