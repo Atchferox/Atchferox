@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Atchferox
-- 👀 I’m interested in app development
-- 🌱 I’m currently attending HBO Utrecht ICT
-- 📱: I'm currently learning react native
-- Fun fact, I like playing drums and making music
+<!--START_SECTION:waka-->
 
+
+<!--END_SECTION:waka-->
 
 <!---
 Atchferox/Atchferox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
