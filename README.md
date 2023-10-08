@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2022 - To: 05 October 2023
+From: 15 November 2022 - To: 07 October 2023
 
-Total Time: 221 hrs 36 mins
+Total Time: 225 hrs 17 mins
 
-TypeScript                 158 hrs 34 mins >>>>>>>>>>>>>>>>>>-------   71.56 %
-Dart                       47 hrs 23 mins  >>>>>--------------------   21.38 %
-JSON                       6 hrs 44 mins   >------------------------   03.04 %
-SCSS                       3 hrs 44 mins   -------------------------   01.69 %
-JavaScript                 2 hrs 3 mins    -------------------------   00.93 %
+TypeScript                 159 hrs 13 mins >>>>>>>>>>>>>>>>>>-------   70.67 %
+Dart                       50 hrs 24 mins  >>>>>>-------------------   22.38 %
+JSON                       6 hrs 44 mins   >------------------------   02.99 %
+SCSS                       3 hrs 44 mins   -------------------------   01.66 %
+JavaScript                 2 hrs 3 mins    -------------------------   00.91 %
 ```
 
 <!--END_SECTION:waka-->
