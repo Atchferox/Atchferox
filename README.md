@@ -1,3 +1,6 @@
+![Pixel profile](https://pixel-profile.vercel.app/api/github-stats?username=Atchferox&screen_effect=true&theme=rainbow
+)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2035%20mins-blue)
