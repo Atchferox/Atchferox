@@ -3,13 +3,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 291 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +78,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2024 18:37:37 UTC
+ Last Updated on 27/06/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
