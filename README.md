@@ -11,8 +11,6 @@
 
 > 📦 102.0 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -75,5 +73,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 18:37:54 UTC
+ Last Updated on 29/07/2024 18:38:33 UTC
 <!--END_SECTION:waka-->
