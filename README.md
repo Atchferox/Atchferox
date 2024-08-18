@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,5 +73,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2024 18:37:40 UTC
+ Last Updated on 18/08/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
