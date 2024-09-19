@@ -11,6 +11,8 @@
 
 > 📦 102.1 kB Used in GitHub's Storage 
  > 
+> 🏆 293 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -44,19 +46,16 @@ Sunday                   71 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               21 mins             ████████████░░░░░░░░░░░░░   48.62 % 
-SCSS                     20 mins             ████████████░░░░░░░░░░░░░   46.77 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zorggenoot-frontend      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +75,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2024 18:39:40 UTC
+ Last Updated on 19/09/2024 18:38:51 UTC
 <!--END_SECTION:waka-->
