@@ -11,8 +11,6 @@
 
 > 📦 103.8 kB Used in GitHub's Storage 
  > 
-> 🏆 360 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -46,21 +44,16 @@ Sunday                   75 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ██████████████░░░░░░░░░░░   54.14 % 
-JavaScript               39 mins             ████████░░░░░░░░░░░░░░░░░   30.99 % 
-SCSS                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zorggenoot-frontend      2 hrs 5 mins        ████████████████████████░   97.67 % 
-zorggenoot-backend       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,5 +73,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 18:40:00 UTC
+ Last Updated on 28/12/2024 18:39:17 UTC
 <!--END_SECTION:waka-->
