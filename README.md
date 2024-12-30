@@ -11,6 +11,8 @@
 
 > 📦 103.8 kB Used in GitHub's Storage 
  > 
+> 🏆 361 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -44,16 +46,20 @@ Sunday                   76 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               24 mins             █████████████████░░░░░░░░   69.68 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fit-tracking-app         35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +79,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 18:39:03 UTC
+ Last Updated on 30/12/2024 18:40:36 UTC
 <!--END_SECTION:waka-->
