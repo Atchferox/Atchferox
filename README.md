@@ -11,6 +11,8 @@
 
 > 📦 104.2 kB Used in GitHub's Storage 
  > 
+> 🏆 36 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -80,5 +82,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:38:11 UTC
+ Last Updated on 02/02/2025 18:39:09 UTC
 <!--END_SECTION:waka-->
