@@ -11,8 +11,6 @@
 
 > 📦 114.2 kB Used in GitHub's Storage 
  > 
-> 🏆 606 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -82,5 +80,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:46:20 UTC
+ Last Updated on 01/06/2025 18:45:03 UTC
 <!--END_SECTION:waka-->
