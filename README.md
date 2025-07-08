@@ -11,8 +11,6 @@
 
 > 📦 114.5 kB Used in GitHub's Storage 
  > 
-> 🏆 699 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -46,17 +44,16 @@ Sunday                   17 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               9 mins              ████████████████████░░░░░   79.22 % 
-JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-waste-warrior-reservation11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +73,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:48:28 UTC
+ Last Updated on 08/07/2025 18:48:38 UTC
 <!--END_SECTION:waka-->
