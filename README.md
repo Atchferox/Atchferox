@@ -3,13 +3,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 114.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 699 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +46,24 @@ Sunday                   17 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+YAML                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+C#                       20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+SCSS                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stappenplan-backend      1 hr 2 mins         ████████████░░░░░░░░░░░░░   49.12 % 
+stappenplan-frontend     59 mins             ████████████░░░░░░░░░░░░░   46.72 % 
+omgevingschat            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+waste-warrior-reservation0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+omgevingschat-1          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +83,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 18:51:10 UTC
+ Last Updated on 05/08/2025 18:52:48 UTC
 <!--END_SECTION:waka-->
