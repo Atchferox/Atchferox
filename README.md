@@ -3,15 +3,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 114.5 kB Used in GitHub's Storage 
- > 
-> 🏆 699 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +44,20 @@ Sunday                   17 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               3 mins              ██████████████░░░░░░░░░░░   57.42 % 
-SCSS                     2 mins              ███████████░░░░░░░░░░░░░░   42.58 % 
+TypeScript               1 hr 23 mins        ███████████████░░░░░░░░░░   59.41 % 
+SCSS                     39 mins             ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+C#                       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 
 🔥 Editors: 
-Cursor                   5 mins              █████████████████████████   100.00 % 
+Cursor                   2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stappenplan-frontend     5 mins              █████████████████████████   100.00 % 
+stappenplan-frontend     2 hrs 1 min         ██████████████████████░░░   86.95 % 
+stappenplan-backend      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+waste-warrior-reservation0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +77,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2025 18:48:27 UTC
+ Last Updated on 21/08/2025 18:46:54 UTC
 <!--END_SECTION:waka-->
