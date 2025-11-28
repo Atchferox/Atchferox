@@ -3,13 +3,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.6 kB Used in GitHub's Storage 
+> 📦 115.7 kB Used in GitHub's Storage 
  > 
 > 🏆 762 Contributions in the Year 2025
  > 
@@ -69,11 +69,11 @@ Mac                      19 hrs              ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ████████████████░░░░░░░░░   65.38 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               16 repos            ████████████████░░░░░░░░░   64.00 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -83,5 +83,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:50:24 UTC
+ Last Updated on 28/11/2025 18:50:53 UTC
 <!--END_SECTION:waka-->
