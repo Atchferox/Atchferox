@@ -19,6 +19,45 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                17021 commits       ██████████░░░░░░░░░░░░░░░   41.19 % 
+🌆 Daytime                23030 commits       ██████████████░░░░░░░░░░░   55.73 % 
+🌃 Evening                1217 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+🌙 Night                  58 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   8893 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Tuesday                  12532 commits       ████████░░░░░░░░░░░░░░░░░   30.32 % 
+Wednesday                10774 commits       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Thursday                 4263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Friday                   4536 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 196 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Sunday                   132 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -36,5 +75,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Atchferox/Atchferox/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:23:14 UTC
+ Last Updated on 25/07/2026 20:07:43 UTC
 <!--END_SECTION:waka-->
